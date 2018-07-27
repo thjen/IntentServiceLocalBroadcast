@@ -1,1 +1,1 @@
-usage LocalBroadcastReceiver
+use LocalBroadcastReceiver
